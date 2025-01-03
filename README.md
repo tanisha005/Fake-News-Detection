@@ -26,6 +26,6 @@ The dataset was collected and combined from two different sources:
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<tanisha005>/Fake-News-Detection.git
+   git clone https://github.com/tanisha005/Fake-News-Detection.git
    cd Fake-News-Detection
 
