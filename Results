@@ -1,0 +1,43 @@
+#Result and Metrics Summary
+
+1. Logistic Regression
+Accuracy: 83.11%
+Precision: 83%
+Recall: 83%
+F1-Score: 83%
+ROC-AUC: 93%
+
+2. Random Forest
+Accuracy: 85.74%
+Precision: 86%
+Recall: 86%
+F1-Score: 86%
+ROC-AUC: 94%
+
+3. Naive Bayes
+Accuracy: 81.23%
+Precision: 84%
+Recall: 81%
+F1-Score: 82%
+ROC-AUC: 92%
+
+4. SVM
+Accuracy: 82.73%
+Precision: 83%
+Recall: 83%
+F1-Score: 83%
+ROC-AUC: 92%
+
+5. Decision Tree
+Accuracy: 80.11%
+Precision: 80%
+Recall: 80%
+F1-Score: 80%
+ROC-AUC: 78%
+
+6. KNN
+Accuracy: 32.45%
+Precision: 79%
+Recall: 32%
+F1-Score: 18%
+ROC-AUC: 62%
